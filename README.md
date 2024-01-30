@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **NFT Marketplace**
+- 🔭 I’m currently working on **NFT Marketplace** and **Web Development*
 
-- 🌱 I’m currently learning **MongoDB and Financial Analytics**
+- 🌱 I’m currently learning **MongoDB ,react and  Financial Analytics**
 
 - 👨‍💻 All of my projects are available at [https://github.com/7thHEAVENN?tab=repositories](https://github.com/7thHEAVENN?tab=repositories)
 
-- 💬 Ask me about **react , node**
+- 💬 Ask me about **python , javscript**
 
 - 📫 How to reach me **ak2003xoin@gmail.com**
 
