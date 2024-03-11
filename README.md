@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **NFT Marketplace** and **Web Development*
 
-- 🌱 I’m currently learning **MongoDB ,react and  Financial Analytics**
+- 🌱 I’m currently learning **MongoDB ,react and  Tensorflow**
 
 - 👨‍💻 All of my projects are available at [https://github.com/7thHEAVENN?tab=repositories](https://github.com/7thHEAVENN?tab=repositories)
 
